@@ -33,8 +33,8 @@ I'm a programming enthusiast with a passion for breaking things and making them 
 
 Feel free to connect and chat!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xanish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xanish&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xanish&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xanish&theme=transparent&hide_border=false)
 
-![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xanish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xanish&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
