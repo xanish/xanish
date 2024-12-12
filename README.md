@@ -7,7 +7,8 @@ I'm a programming enthusiast with a passion for breaking things and making them 
 - 👯 I’m looking to collaborate on web projects, libraries, frameworks, scripts.
 - 🤔 I’m looking for help with learning and writing better tests.
 - 💬 Ask me about web and backend development.
-- 📫 Reach out to me on: [LinkedIn](https://linkedin.com/in/danish-ali-furniturewala)
+- 📫 Reach out to me on: [LinkedIn](https://linkedin.com/in/danish-ali-furniturewala).
+- 🌐 You can learn more about me on [my portfolio](https://xanish.github.io/).
 
 🔧 Skills & Experience:
 
